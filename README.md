@@ -1,7 +1,7 @@
 # medicalSegReview
 Is the medical segmentation problem solved-Survey
 
-# Representative Methods: 2015–2024）
+# Representative Methods: 2015–2024
 
 <div style="overflow-x: auto;">
 
