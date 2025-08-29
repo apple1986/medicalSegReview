@@ -1,5 +1,6 @@
 # medicalSegReview
-Is the medical segmentation problem solved-Survey
+Is the medical image segmentation problem solved? A survey of current developments and future directions
+This paper is available for download at https://arxiv.org/abs/2508.20139.
 
 # Representative Methods: 2015–2024
 
